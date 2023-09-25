@@ -1,0 +1,389 @@
+'lynxdtn01':
+  'one-to-one':
+    0:
+      core: 0
+      port: 5000
+    1:
+      core: 1
+      port: 5001
+    2:
+      core: 2
+      port: 5002
+    3:
+      core: 3
+      port: 5003
+    4:
+      core: 4
+      port: 5004
+    5:
+      core: 5
+      port: 5005
+    6:
+      core: 6
+      port: 5006
+    7:
+      core: 7
+      port: 5007
+    8:
+      core: 8
+      port: 5008
+    9:
+      core: 9
+      port: 5009
+    10:
+      core: 10
+      port: 5010
+    11:
+      core: 11
+      port: 5011
+    12:
+      core: 12
+      port: 5012
+    13:
+      core: 13
+      port: 5013
+    14:
+      core: 14
+      port: 5014
+    15:
+      core: 15
+      port: 5015
+    16:
+      core: 16
+      port: 5016
+    17:
+      core: 17
+      port: 5017
+    18:
+      core: 18
+      port: 5018
+    19:
+      core: 19
+      port: 5019
+    20:
+      core: 20
+      port: 5020
+    21:
+      core: 21
+      port: 5021
+    22:
+      core: 22
+      port: 5022
+    23:
+      core: 23
+      port: 5023
+    24:
+      core: 24
+      port: 5024
+    25:
+      core: 25
+      port: 5025
+    26:
+      core: 26
+      port: 5026
+    27:
+      core: 27
+      port: 5027
+    28:
+      core: 28
+      port: 5028
+    29:
+      core: 29
+      port: 5029
+    30:
+      core: 30
+      port: 5030
+    31:
+      core: 31
+      port: 5031
+    32:
+      core: 32
+      port: 5032
+    33:
+      core: 33
+      port: 5033
+    34:
+      core: 34
+      port: 5034
+    35:
+      core: 35
+      port: 5035
+    36:
+      core: 36
+      port: 5036
+    37:
+      core: 37
+      port: 5037
+    38:
+      core: 38
+      port: 5038
+    39:
+      core: 39
+      port: 5039
+    40:
+      core: 40
+      port: 5040
+    41:
+      core: 41
+      port: 5041
+    42:
+      core: 42
+      port: 5042
+    43:
+      core: 43
+      port: 5043
+    44:
+      core: 44
+      port: 5044
+    45:
+      core: 45
+      port: 5045
+    46:
+      core: 46
+      port: 5046
+    47:
+      core: 47
+      port: 5047
+    48:
+      core: 48
+      port: 5048
+    49:
+      core: 49
+      port: 5049
+    50:
+      core: 50
+      port: 5050
+    51:
+      core: 51
+      port: 5051
+    52:
+      core: 52
+      port: 5052
+    53:
+      core: 53
+      port: 5053
+    54:
+      core: 54
+      port: 5054
+    55:
+      core: 55
+      port: 5055
+    56:
+      core: 56
+      port: 5056
+    57:
+      core: 57
+      port: 5057
+    58:
+      core: 58
+      port: 5058
+    59:
+      core: 59
+      port: 5059
+    60:
+      core: 60
+      port: 5060
+    61:
+      core: 61
+      port: 5061
+    62:
+      core: 62
+      port: 5062
+    63:
+      core: 63
+      port: 5063
+
+'polaris-login-02':
+  'one-to-one':
+    0:
+      core: 0
+      port: 5000
+    1:
+      core: 1
+      port: 5001
+    2:
+      core: 2
+      port: 5002
+    3:
+      core: 3
+      port: 5003
+    4:
+      core: 4
+      port: 5004
+    5:
+      core: 5
+      port: 5005
+    6:
+      core: 6
+      port: 5006
+    7:
+      core: 7
+      port: 5007
+    8:
+      core: 8
+      port: 5008
+    9:
+      core: 9
+      port: 5009
+    10:
+      core: 10
+      port: 5010
+    11:
+      core: 11
+      port: 5011
+    12:
+      core: 12
+      port: 5012
+    13:
+      core: 13
+      port: 5013
+    14:
+      core: 14
+      port: 5014
+    15:
+      core: 15
+      port: 5015
+    16:
+      core: 16
+      port: 5016
+    17:
+      core: 17
+      port: 5017
+    18:
+      core: 18
+      port: 5018
+    19:
+      core: 19
+      port: 5019
+    20:
+      core: 20
+      port: 5020
+    21:
+      core: 21
+      port: 5021
+    22:
+      core: 22
+      port: 5022
+    23:
+      core: 23
+      port: 5023
+    24:
+      core: 24
+      port: 5024
+    25:
+      core: 25
+      port: 5025
+    26:
+      core: 26
+      port: 5026
+    27:
+      core: 27
+      port: 5027
+    28:
+      core: 28
+      port: 5028
+    29:
+      core: 29
+      port: 5029
+    30:
+      core: 30
+      port: 5030
+    31:
+      core: 31
+      port: 5031
+    32:
+      core: 32
+      port: 5032
+    33:
+      core: 33
+      port: 5033
+    34:
+      core: 34
+      port: 5034
+    35:
+      core: 35
+      port: 5035
+    36:
+      core: 36
+      port: 5036
+    37:
+      core: 37
+      port: 5037
+    38:
+      core: 38
+      port: 5038
+    39:
+      core: 39
+      port: 5039
+    40:
+      core: 40
+      port: 5040
+    41:
+      core: 41
+      port: 5041
+    42:
+      core: 42
+      port: 5042
+    43:
+      core: 43
+      port: 5043
+    44:
+      core: 44
+      port: 5044
+    45:
+      core: 45
+      port: 5045
+    46:
+      core: 46
+      port: 5046
+    47:
+      core: 47
+      port: 5047
+    48:
+      core: 48
+      port: 5048
+    49:
+      core: 49
+      port: 5049
+    50:
+      core: 50
+      port: 5050
+    51:
+      core: 51
+      port: 5051
+    52:
+      core: 52
+      port: 5052
+    53:
+      core: 53
+      port: 5053
+    54:
+      core: 54
+      port: 5054
+    55:
+      core: 55
+      port: 5055
+    56:
+      core: 56
+      port: 5056
+    57:
+      core: 57
+      port: 5057
+    58:
+      core: 58
+      port: 5058
+    59:
+      core: 59
+      port: 5059
+    60:
+      core: 60
+      port: 5060
+    61:
+      core: 61
+      port: 5061
+    62:
+      core: 62
+      port: 5062
+    63:
+      core: 63
+      port: 5063
