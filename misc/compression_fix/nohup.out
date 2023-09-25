@@ -1,0 +1,112 @@
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/throughput/' created.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/cpu/' created.
+Running for memory in node 0 , execution in b and thread count=1
+./run_compression_experiments.sh: line 5: 3190781 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/cpu/' already exists.
+Running for memory in node 0 , execution in b and thread count=2
+./run_compression_experiments.sh: line 5: 3191856 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/cpu/' already exists.
+Running for memory in node 0 , execution in b and thread count=4
+./run_compression_experiments.sh: line 5: 3192487 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/cpu/' already exists.
+Running for memory in node 0 , execution in b and thread count=8
+./run_compression_experiments.sh: line 5: 3192910 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/cpu/' already exists.
+Running for memory in node 0 , execution in b and thread count=16
+./run_compression_experiments.sh: line 5: 3193171 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/cpu/' already exists.
+Running for memory in node 0 , execution in b and thread count=32
+./run_compression_experiments.sh: line 5: 3193435 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_b/cpu/' already exists.
+Running for memory in node 0 , execution in b and thread count=64
+./run_compression_experiments.sh: line 5: 3193644 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/throughput/' created.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/cpu/' created.
+Running for memory in node 1 , execution in b and thread count=1
+./run_compression_experiments.sh: line 5: 3193899 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/cpu/' already exists.
+Running for memory in node 1 , execution in b and thread count=2
+./run_compression_experiments.sh: line 5: 3195002 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/cpu/' already exists.
+Running for memory in node 1 , execution in b and thread count=4
+./run_compression_experiments.sh: line 5: 3195606 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/cpu/' already exists.
+Running for memory in node 1 , execution in b and thread count=8
+./run_compression_experiments.sh: line 5: 3196082 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/cpu/' already exists.
+Running for memory in node 1 , execution in b and thread count=16
+./run_compression_experiments.sh: line 5: 3196393 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/cpu/' already exists.
+Running for memory in node 1 , execution in b and thread count=32
+./run_compression_experiments.sh: line 5: 3196601 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_b/cpu/' already exists.
+Running for memory in node 1 , execution in b and thread count=64
+./run_compression_experiments.sh: line 5: 3196849 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/throughput/' created.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/cpu/' created.
+Running for memory in node 0 , execution in OS and thread count=1
+./run_compression_experiments.sh: line 5: 3197523 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/cpu/' already exists.
+Running for memory in node 0 , execution in OS and thread count=2
+./run_compression_experiments.sh: line 5: 3198608 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/cpu/' already exists.
+Running for memory in node 0 , execution in OS and thread count=4
+./run_compression_experiments.sh: line 5: 3199230 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/cpu/' already exists.
+Running for memory in node 0 , execution in OS and thread count=8
+./run_compression_experiments.sh: line 5: 3199609 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/cpu/' already exists.
+Running for memory in node 0 , execution in OS and thread count=16
+./run_compression_experiments.sh: line 5: 3199873 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/cpu/' already exists.
+Running for memory in node 0 , execution in OS and thread count=32
+./run_compression_experiments.sh: line 5: 3200114 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_0_Exec_OS/cpu/' already exists.
+Running for memory in node 0 , execution in OS and thread count=64
+./run_compression_experiments.sh: line 5: 3200360 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/throughput/' created.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/cpu/' created.
+Running for memory in node 1 , execution in OS and thread count=1
+./run_compression_experiments.sh: line 5: 3200607 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/cpu/' already exists.
+Running for memory in node 1 , execution in OS and thread count=2
+./run_compression_experiments.sh: line 5: 3201719 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/cpu/' already exists.
+Running for memory in node 1 , execution in OS and thread count=4
+./run_compression_experiments.sh: line 5: 3202359 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/cpu/' already exists.
+Running for memory in node 1 , execution in OS and thread count=8
+./run_compression_experiments.sh: line 5: 3202791 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/cpu/' already exists.
+Running for memory in node 1 , execution in OS and thread count=16
+./run_compression_experiments.sh: line 5: 3203088 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/cpu/' already exists.
+Running for memory in node 1 , execution in OS and thread count=32
+./run_compression_experiments.sh: line 5: 3203346 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/throughput/' already exists.
+Directory '/home/beams/MJAMIL/hpdt4ha/tests/perf_tools/logs/COMPRESSION/Mem_1_Exec_OS/cpu/' already exists.
+Running for memory in node 1 , execution in OS and thread count=64
+./run_compression_experiments.sh: line 5: 3203605 Killed                  /home/beams/MJAMIL/hpdt4ha/tests/monitor_scripts/cpu_monitor.sh ${DIR_2}/m${m}_e_${n}_CT_${c}.log
